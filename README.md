@@ -33,9 +33,9 @@ I'm a self-taught software engineer passionate about creating tools that empower
 Built with Flutter, Supabase, and Dart, Dravik offers offline guides, Safety SOS, and map integration for seamless travel experiences.  
 🛠️ *Status: Actively developing core features*
 
-**Try the Safety SOS Demo**: Click the button below to see a mock SOS alert animation inspired by Dravik!  
+**Try the Dravik Dashboard Demo**: Click below to explore a mini simulation of Dravik’s travel guide, map, and SOS features!  
 <div align="center">
-  <iframe src="https://zero-day-smile.github.io/Service/" width="200" height="100" frameborder="0"></iframe>
+  <iframe src="https://zero-day-smile.github.io/Service/" width="300" height="200" frameborder="0"></iframe>
 </div>
 
 ### [Nirbhay AI](https://github.com/Zero-Day-Smile/Nirbhay-AI)
