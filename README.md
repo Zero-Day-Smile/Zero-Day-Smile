@@ -37,13 +37,11 @@ Built with Flutter, Supabase, and Dart, Dravik offers offline guides, Safety SOS
 
 ---
 
-### 🌍 Live Demo – See Dravik in Action  
+### 🌍 Live Demo – See Dravik in Action    
 <div align="center">
   <a href="https://zero-day-smile.github.io/Service/" target="_blank">
-    <img src="https://img.shields.io/badge/▶️ Launch Dravik Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Dravik Demo" />
+    <img src="https://img.shields.io/badge/🚀 Launch Dravik Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Dravik Demo" />
   </a>
-  <br><br>
-  <iframe src="https://zero-day-smile.github.io/Service/" width="300" height="200" frameborder="0" style="border: 3px solid #ff5733; border-radius: 10px;"></iframe>
 </div>
 
 
