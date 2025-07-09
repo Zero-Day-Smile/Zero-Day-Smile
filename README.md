@@ -30,20 +30,22 @@ with a commitment to privacy, scalability, and impact.
 
 ## 🚀 Projects
 
-### [Dravik](https://github.com/Zero-Day-Smile/Dravik)  
+### [Dravik](https://github.com/Zero-Day-Smile/Dravik)
 **A productivity and assistant OS for travelers and adventurers**  
 Built with Flutter, Supabase, and Dart, Dravik offers offline guides, Safety SOS, and map integration for seamless travel experiences.  
 🛠️ *Status: Actively developing core features*
 
-<details>
-  <summary><strong>🌍 Explore Dravik’s Impact</strong></summary>
-  <p>Click below to see how Dravik helps with travel, camping, and survival in the Wild!</p>
-  <div align="center">
-    <a href="https://zero-day-smile.github.io/Service/" target="_blank">
-      <img src="https://img.shields.io/badge/Launch Dravik Impact Site-28a745?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Dravik Service" />
-    </a>
-  </div>
-</details>
+---
+
+### 🌍 Live Demo – See Dravik in Action  
+<div align="center">
+  <a href="https://zero-day-smile.github.io/Service/" target="_blank">
+    <img src="https://img.shields.io/badge/▶️ Launch Dravik Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Dravik Demo" />
+  </a>
+  <br><br>
+  <iframe src="https://zero-day-smile.github.io/Service/" width="300" height="200" frameborder="0" style="border: 3px solid #ff5733; border-radius: 10px;"></iframe>
+</div>
+
 
 ---
 
