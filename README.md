@@ -2,8 +2,7 @@
 
 # Amish Kumar
 
-**Software Engineer in progress.**  
-CSE @ SRM Ramapuram · 2024–2028  
+**Software Engineer in progress.**   
 Currently building tools that matter.
 
 ---
