@@ -34,10 +34,7 @@ with a commitment to privacy, scalability, and impact.
 **A productivity and assistant OS for travelers and adventurers**  
 Built with Flutter, Supabase, and Dart, Dravik offers offline guides, Safety SOS, and map integration for seamless travel experiences.  
 🛠️ *Status: Actively developing core features*
-
----
-
-### 🌍 Live Demo – See Dravik in Action    
+    
 <div align="center">
   <a href="https://zero-day-smile.github.io/Service/" target="_blank">
     <img src="https://img.shields.io/badge/🚀 Launch Dravik Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Dravik Demo" />
