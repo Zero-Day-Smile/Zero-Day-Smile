@@ -35,7 +35,7 @@ Built with Flutter, Supabase, and Dart, Dravik offers offline guides, Safety SOS
 
 **Try the Safety SOS Demo**: Click the button below to see a mock SOS alert animation inspired by Dravik!  
 <div align="center">
-  <iframe src="https://gistcdn.githack.com/Zero-Day-Smile/raw/sos-button.html" width="200" height="100" frameborder="0"></iframe>
+  <iframe src="[https://gistcdn.githack.com/Zero-Day-Smile/raw/sos-button.html](https://gist.githubusercontent.com/Zero-Day-Smile/a2f12de401cace5f66cb2d43ad733830/raw/72458b9d56ad6bd0d9211fbef5ba01eb2e819a98/sos-button.html)" width="200" height="100" frameborder="0"></iframe>
 </div>
 
 ### [Nirbhay AI](https://github.com/Zero-Day-Smile/Nirbhay-AI)
