@@ -52,9 +52,8 @@ Leverages NLP and Python to classify and prioritize emergency calls, integrated 
 ---
 
 ### [SmartAid](https://github.com/Zero-Day-Smile/SmartAid)  
-**AI-driven emergency medical record system**  
-Combines Flutter and ML to streamline medical data access in critical situations.  
-🛠️ *Status: Early development*
+**A secure, HIPAA‑aligned medical AI platform for clinical workflows, audit logging, and decision support**  
+🛠️ *Status: MVP*
 
 ---
 
