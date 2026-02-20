@@ -1,146 +1,96 @@
 <div align="center">
+  <h1>Amish Kumar</h1>
+  <p><strong>Crafting Software with Purpose</strong></p>
+  <p>Building intelligent, secure, and scalable solutions for real-world challenges.</p>
 
-# 👋 Hey, I'm Amish Kumar
-
-### Building Intelligent Systems for Real-World Impact
-
-I design and develop scalable, secure, and AI-powered solutions  
-focused on **public safety, productivity, and emergency response systems.**
-
----
-
-<a href="https://linkedin.com/in/amishkumarofficial">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://codolio.com/profile/Amish">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://linkedin.com/in/amishkumarofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codolio.com/profile/Amish">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
 
-## 🧠 About Me
+## 🛠️ About Me
 
-I'm a self-driven software engineer passionate about solving meaningful problems with technology.
+I'm a self-taught software engineer passionate about creating tools that empower people.  
+My focus lies in **emergency services**, **personal productivity**, and **smart interfaces**,  
+with a commitment to privacy, scalability, and impact.
 
-My work revolves around:
-
-- 🚨 **Emergency & Public Safety Systems**
-- 🤖 **AI-powered automation**
-- 📱 **High-performance mobile applications**
-- 🔐 **Privacy-first architectures**
-
-I don’t just build apps — I build systems designed to operate in critical, real-world scenarios.
+- 🔍 **Exploring**: AI-driven systems, mobile apps, and secure backends  
+- 💻 **Tech Stack**: Flutter, Dart, Python, Supabase, Firebase, Node.js, React  
+- 🧠 **Learning**: NLP, cybersecurity, and ML for real-world applications  
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Projects
 
-**Languages**
-`Dart` • `Python` • `JavaScript` • `SQL`
+### [Dravik](https://github.com/Zero-Day-Smile/Dravik)
+**A productivity and assistant OS for travelers and adventurers**  
+Built with Flutter, Supabase, and Dart, Dravik offers offline guides, Safety SOS, and map integration for seamless travel experiences.  
+🛠️ *Status: Actively developing core features*
+    
+<div align="center">
+  <a href="https://zero-day-smile.github.io/Service/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Launch Dravik Demo-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Dravik Demo" />
+  </a>
+</div>
 
-**Frontend**
-Flutter • React • TailwindCSS
-
-**Backend & Cloud**
-Node.js • Firebase • Supabase • REST APIs
-
-**AI & Systems**
-NLP • Machine Learning (Applied) • System Design
-
----
-
-# 🚀 Featured Projects
 
 ---
 
-## 🔷 Dravik  
-**Productivity + Safety OS for Travelers**
-
-A Flutter-powered assistant system combining:
-- Offline travel intelligence
-- Integrated SOS safety mechanism
-- Smart map utilities
-- Secure backend (Supabase)
-
-🛠 Status: Actively building core system architecture  
-🔗 Repository: https://github.com/Zero-Day-Smile/Dravik  
+### [Nirbhay AI](https://github.com/Zero-Day-Smile/Nirbhay-AI)  
+**AI-powered emergency dispatch for police departments**  
+Leverages NLP and Python to classify and prioritize emergency calls, integrated with Firebase and REST APIs.  
+🛠️ *Status: Prototyping and testing*
 
 ---
 
-## 🔷 Nirbhay AI  
-**AI-Based Emergency Dispatch Intelligence**
-
-An NLP-driven emergency classification system that:
-- Analyzes incoming emergency calls
-- Prioritizes severity automatically
-- Integrates with Firebase + REST APIs
-
-🛠 Status: Prototyping & dataset optimization  
-🔗 Repository: https://github.com/Zero-Day-Smile/Nirbhay-AI  
+### [SmartAid](https://github.com/Zero-Day-Smile/SmartAid)  
+**AI-driven emergency medical record system**  
+Combines Flutter and ML to streamline medical data access in critical situations.  
+🛠️ *Status: Early development*
 
 ---
 
-## 🔷 SmartAid  
-**Emergency Medical Intelligence System**
-
-AI-powered emergency medical record interface built for:
-- Rapid critical access
-- Structured patient history
-- ML-assisted data prioritization
-
-🛠 Status: Early architecture phase  
-🔗 Repository: https://github.com/Zero-Day-Smile/SmartAid  
+### [OptiTask](https://github.com/Zero-Day-Smile/OptiTask)  
+**Task and budget manager for everyday efficiency**  
+A lightweight React and Node.js app designed for simplicity and usability.  
+🛠️ *Status: Stable, adding features*
 
 ---
 
-## 🔷 OptiTask  
-**Minimal Productivity & Budget Manager**
+## 💡 Philosophy
 
-A lightweight full-stack app focused on:
-- Task management
-- Budget tracking
-- Clean UX architecture
+Great software should:  
+- ✅ Solve meaningful problems with precision  
+- ✅ Prioritize user privacy and trust  
+- ✅ Be lean, scalable, and built to last  
 
-Stack: React + Node.js  
-🛠 Status: Stable, refining features  
-🔗 Repository: https://github.com/Zero-Day-Smile/OptiTask  
+I focus on creating tools that make a difference, not chasing fleeting trends.
 
 ---
 
-# 💡 Engineering Philosophy
+## 📫 Connect with Me
 
-I believe great systems should be:
-
-- Scalable by design  
-- Secure by default  
-- Purpose-driven  
-- Built for real-world reliability  
-
-I prioritize long-term impact over short-term trends.
+- **LinkedIn**: [amishkumarofficial](https://linkedin.com/in/amishkumarofficial)  
+- **Portfolio**: [codolio.com/profile/Amish](https://codolio.com/profile/Amish)  
+- **Email**: Available upon request  
 
 ---
-
-# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zero-Day-Smile&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-Day-Smile&layout=compact&theme=radical" height="170"/>
+  <i>“Code with intent. Build for impact. Iterate relentlessly.”</i>
 </div>
 
 ---
 
 <div align="center">
-
-### 🚀 Currently Exploring
-AI for Public Infrastructure • Secure System Design • Applied NLP
-
----
-
-*"Build systems that matter."*
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Zero-Day-Smile&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-Day-Smile&layout=compact&theme=radical" alt="Top Languages" />
 </div>
