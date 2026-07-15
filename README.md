@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/amishkumarofficial">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codolio.com/profile/Amish">
+  <a href="https://amish-6jr.pages.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5733?style=flat&logo=web&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:your.email@example.com">
